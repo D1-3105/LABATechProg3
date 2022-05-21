@@ -1,0 +1,5 @@
+Employer Oleg Konin 1241443 Peredovikov13 228
+State_Employer Elena Sostina +7921398421 Gastello_15 1245 Rektor
+State_Employer Vasilyi Levashov +79412949412 Vasilevskyi_Ostrov 3 Junior_Go
+Hourly_Employer Nadezhda Chumakova +79999999999 BM67 300000 100 3000
+Percent_Employer Kuritsin Konstantin +8312839 BM67 493.6 1234 0.4
